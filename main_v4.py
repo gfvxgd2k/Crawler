@@ -1,5 +1,4 @@
 # web crawler using python & selenium & google driver
-# author : RoyalAzalea
 # version 3
 #
 
